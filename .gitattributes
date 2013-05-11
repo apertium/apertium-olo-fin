@@ -1,0 +1,28 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-olo-fin.fin-olo.lrx -text
+/apertium-olo-fin.fin-olo.rlx -text
+/apertium-olo-fin.fin-olo.t1x -text
+/apertium-olo-fin.fin-olo.t2x -text
+/apertium-olo-fin.fin-olo.t3x -text
+/apertium-olo-fin.fin.lexc -text
+/apertium-olo-fin.fin.twol -text
+/apertium-olo-fin.olo-fin.dix -text
+/apertium-olo-fin.olo-fin.lrx -text
+/apertium-olo-fin.olo-fin.rlx -text
+/apertium-olo-fin.olo-fin.t1x -text
+/apertium-olo-fin.olo-fin.t2x -text
+/apertium-olo-fin.olo-fin.t3x -text
+/apertium-olo-fin.olo.lexc -text
+/apertium-olo-fin.olo.twol -text
+/autogen.sh -text
+/configure.ac -text
+/fin-olo.prob -text svneol=unset#unset
+/modes.xml -text
+/olo-fin.prob -text svneol=unset#unset
+texts/vixen.olo.txt -text
