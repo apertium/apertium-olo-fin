@@ -25,4 +25,5 @@
 /fin-olo.prob -text svneol=unset#unset
 /modes.xml -text
 /olo-fin.prob -text svneol=unset#unset
+texts/vixen.fin.txt -text
 texts/vixen.olo.txt -text
