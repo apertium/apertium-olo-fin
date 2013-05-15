@@ -90,8 +90,8 @@ K1:k
 %^RVws:0
 
 %- !Hyphen in  constructions 
-%>
-#   ! Word boundary for both lexicalised and dynamic compounds
+%>:0
+#:0   ! Word boundary for both lexicalised and dynamic compounds
 
 
 %^LVws:0
@@ -120,7 +120,7 @@ Vws = a o u ä ö y ü e i
       A O U Ä Ö Y Ü E I ;
 
 Cns = b c č d f g h j k l m n p r s ş š t v z ƶ ž 
-      B C Č D F G H J K L M N P R S Ş Š T V Z Ƶ Ž ;
+      B C Č D F G H J K L M N P R S Ş Š T V Z Ƶ Ž ʼ ;
 
 Letters = Vws Cns ;
 
