@@ -29,3 +29,8 @@ texts/tarina.fin.txt -text
 texts/tarina.olo.txt -text
 texts/vixen.fin.txt -text
 texts/vixen.olo.txt -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
